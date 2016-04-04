@@ -11,9 +11,7 @@
 
   There's a reference link below; investigate cases requiring edits in the config.
   This could be a local change for the repository or global settings.
-  Look into how the ssh credentials work.  
-
-
+  Look into how the ssh credentials work. 
 
 
 ##### Reference links accumulated:
