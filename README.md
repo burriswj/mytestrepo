@@ -27,4 +27,6 @@
 
 [git blame docs](https://git-scm.com/docs/git-blame)
 
+[fetch/merge good practices, includes branching](http://longair.net/blog/2009/04/16/git-fetch-and-merge/)
+
 [1]: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
