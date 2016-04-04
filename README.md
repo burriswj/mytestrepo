@@ -2,9 +2,7 @@
 ### This is simply an exercise in basic git and github practices.
 
 *adding individual files vs $ git add .*  
-
   Take it case by case:  
-
   Solving an issue number or developing a feature when working with somebody
   else's repo (PR) may differ from just working on your stuff dictates which is
   appropriate.
@@ -20,6 +18,16 @@
 
 ##### Reference links accumulated:
 
-https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/
+[github help page](https://help.github.com/ "Github Help")   
 
-https://git-scm.com/docs/git-config
+[adding a project to repo on the terminal](https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/ "adding-an-existing-project-to-github-using-the-command-line")
+
+[git config docs](https://git-scm.com/docs/git-config "git-config")
+
+[markdown cheatsheet][1]
+
+[using git blame to trace changes](https://help.github.com/articles/using-git-blame-to-trace-changes-in-a-file/ )
+
+[git blame docs](https://git-scm.com/docs/git-blame)
+
+[1]: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
