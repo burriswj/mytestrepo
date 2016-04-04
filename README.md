@@ -13,6 +13,7 @@ Here's where you should start if you're brand new:
 
 Now you can see what's next:  
 + [Github Explore](https://help.github.com/categories/github-pages-basics/)
++ [Keeping an eye on stuff you fine](https://help.github.com/articles/about-stars/)
 
 
 ##### *adding individual files vs "$ git add ."*
